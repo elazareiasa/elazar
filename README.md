@@ -7,4 +7,4 @@ This is my firs github repository.
 1. CSS first 
 
 ---
-All nights reserved 
+All rights reserved 
