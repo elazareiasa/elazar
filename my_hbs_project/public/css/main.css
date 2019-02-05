@@ -1,0 +1,16 @@
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  /* text-align: center; */
+  color: green;
+}
+
+button {
+  border: none;
+  background: red;
+  color: white;
+}
