@@ -1,0 +1,23 @@
+.choose-fish {
+  text-align: center;
+}
+
+#aquarium {
+  position: relative;
+  height: 95vh;
+  background-image: url("https://c8.alamy.com/comp/M67KCY/big-empty-aquarium-in-oceanarium-sunrays-coming-in-M67KCY.jpg");
+}
+
+.fish {
+  width: 200px;
+  position: absolute;
+  transform: scaleX(-1);
+}
+
+.fish.flip {
+  transform: scaleX(1);
+}
+
+#speed {
+  width: 70px;
+}
