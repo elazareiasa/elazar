@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "imgUrl": "./images/image1.jpg",
+      "id": 1
+    },
+    {
+      "imgUrl": "./images/image2.jpg",
+      "id": 2
+    },
+    {
+      "imgUrl": "./images/image3.jpg",
+      "id": 3
+    },
+    {
+      "imgUrl": "./images/image4.jpg",
+      "id": 4
+    },
+    {
+      "imgUrl": "./images/image5.jpg",
+      "id": 5
+    },
+    {
+      "imgUrl": "./images/image6.jpg",
+      "id": 6
+    },
+    {
+      "imgUrl": "./images/image7.jpg",
+      "id": 7
+    },
+    {
+      "imgUrl": "./images/image8.jpg",
+      "id": 8
+    }
+  ]
+}
