@@ -1,0 +1,22 @@
+{
+  "name": "our_bnb",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon ./api",
+    "start": "node ./api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "cli-color": "^1.4.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "main": "api.js",
+  "description": ""
+}
